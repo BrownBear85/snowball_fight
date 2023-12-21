@@ -150,7 +150,7 @@ public class Config {
 
         if (currentSize == (largeStacks ? 16 : 64)) {
             // set snowball stack size to 64 if it's currently set to 16
-            ObfuscationReflectionHelper.setPrivateValue(Item.class, Items.SNOWBALL, largeStacks ? 64 : 16, "maxStackSize");
+            ObfuscationReflectionHelper.setPrivateValue(Item.class, Items.SNOWBALL, largeStacks ? 64 : 16, "f_41370_"); // maxStackSize
         }
     }
 }
