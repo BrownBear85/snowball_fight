@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#iC",
+    "  i"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:snow_block"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:crossbow"
+    }
+  },
+  "result": {
+    "item": "snowball_fight:snowball_launcher",
+    "count": 1
+  }
+}

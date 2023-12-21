@@ -1,0 +1,6 @@
+{
+  "parent": "snowball_fight:item/snowball_launcher",
+  "textures": {
+    "layer0": "snowball_fight:item/full_snowball_launcher"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "item.snowball_fight.snowball_launcher": "Snowball Launcher",
+  "item.snowball_fight.snowball_launcher.ammo": "%ss: %d / %d",
+  "item.snowball_fight.snowball_launcher.empty": "No snowballs",
+  "item.snowball_fight.ice_shard": "Ice Shard",
+  "item.snowball_fight.icy_snowball": "Icy Snowball",
+
+  "snowball_fight.configgui.snowballsStackTo64": "Snowballs Stack to 64",
+  "snowball_fight.configgui.snowballsStackTo64.tooltip": "When enabled, snowballs stack to 64 instead of 16.\nEnabled by default.",
+  "snowball_fight.configgui.snowballsSlowMobs": "Snowballs Apply Slowness",
+  "snowball_fight.configgui.snowballsSlowMobs.tooltip": "When enabled, snowballs apply slowness to any entities that they hit.\nDisabled by default.",
+  "snowball_fight.configgui.raidersUseSnowballs": "Raiders Use Snowballs",
+  "snowball_fight.configgui.raidersUseSnowballs.tooltip": "When enabled, Pillagers and Vindicators have the ability to fight with snowballs.\nEnabled by default.",
+  "snowball_fight.configgui.snowballDamage": "Snowball Base Damage",
+  "snowball_fight.configgui.snowballDamage.tooltip": "The base damage of regular snowballs.\nThis value is multiplied by about 1.4 for throwing by hand and by about 2.4 when shooting from a Snowball Launcher.\nDefault is 2.2 damage.",
+  "snowball_fight.configgui.icySnowballDamage": "Icy Snowball Base Damage",
+  "snowball_fight.configgui.icySnowballDamage.tooltip": "The base damage of icy snowballs.\nThis value is multiplied by about 1.4 for throwing by hand and by about 2.4 when shooting from a Snowball Launcher.\nDefault is 3.3 damage.",
+  "snowball_fight.configgui.launcherAmmoSize": "Snowball Launcher Ammo Size",
+  "snowball_fight.configgui.launcherAmmoSize.tooltip": "How many snowballs a Snowball Launcher can hold at a time.\nDefault amount is 32 snowballs.",
+  "snowball_fight.configgui.launcherLoadTime": "Snowball Launcher Load Time",
+  "snowball_fight.configgui.launcherLoadTime.tooltip": "The time in ticks to load 1 snowball into a Snowball Launcher.\nDefault time is 2 ticks.",
+  "snowball_fight.configgui.launcherShotCooldown": "Snowball Launcher Shot Cooldown",
+  "snowball_fight.configgui.launcherShotCooldown.tooltip": "The time in ticks of the cooldown after firing a snowball from a Snowball Launcher.\n9 ticks is ideal for combos and is the default.",
+  "snowball_fight.configgui.snowballCooldown": "Snowball Throw Cooldown",
+  "snowball_fight.configgui.snowballCooldown.tooltip": "The time in ticks of the cooldown after throwing a snowball.\nDefault time is 10 ticks.",
+  "snowball_fight.configgui.mobsThrowSnowballs": "Should Mobs Throw Snowballs",
+  "snowball_fight.configgui.mobsThrowSnowballs.tooltip": "If vanilla monster attacks should be replaced with snowball attacks.\nDefault value is snowy_biomes."
+}
